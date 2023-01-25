@@ -1,0 +1,32 @@
+Body {
+    background: black;
+ 
+}
+.title{
+color: blue;
+text-align: center;
+    
+}
+
+.text2{
+    color: blue;
+    text-align: center;
+}
+
+.clock {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 60px;
+    font-family:'Times New Roman', Times, serif, serif;
+    letter-spacing: 7px;
+  }
+
+  .text3{
+    color: blue;
+    text-align: center;
+  }
+
+  #myName{
+    color: #e98208
+  }
